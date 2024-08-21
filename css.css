@@ -1,0 +1,30 @@
+button{
+    color: whitesmoke;
+    padding: 30px;
+    background-color: blueviolet;
+    border-radius: 20%;
+    border-color: mediumpurple;
+    font-weight: bolder;
+    margin-left: 30px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.app{
+    height: 100px;
+    width: 200px;
+    background-color: green;
+}
+
+.class1{
+    color: brown;
+}
+
+.class2{
+    background-color: antiquewhite;
+}
+
+.class3{
+    height: 200px;
+    width: 150px;
+}
